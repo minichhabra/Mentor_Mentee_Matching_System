@@ -1,4 +1,4 @@
-# Team 74, Don't React
+# Mentor Mentee Matching System
 
 ## Problem Statement
 Building a mentor-mentee matching mechanism for high school students to engage in peer-to-peer learning. CLAYLAB is looking for a flexible online platform that can fulfill the mentee's requirements. Career choices, gender preferences, interests, geography, and language are all factors taken into account when pairing a mentor and mentee. 
